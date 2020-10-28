@@ -8,5 +8,6 @@ Full stack javascript developer, core tech stack: node.js, typescript, Angular, 
 🔭 I’m currently working on Angular 10 
 📫 How to reach me: https://www.linkedin.com/in/procurandody/
 
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=renatodysouza)
 
