@@ -11,3 +11,4 @@ Full stack javascript developer, core tech stack: node.js, typescript, Angular, 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=renatodysouza)
 
+
